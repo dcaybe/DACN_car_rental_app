@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "652377287889",
+    "firebase_url": "https://thue-oto-default-rtdb.firebaseio.com",
+    "project_id": "thue-oto",
+    "storage_bucket": "thue-oto.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652377287889:android:677f96a4b7d540919429f0",
+        "android_client_info": {
+          "package_name": "com.example.car_fontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGO1-p2c7iznpS1YtN6JxUb6deqyq7D9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
